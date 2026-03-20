@@ -9,7 +9,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-Latest-FF0055?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-[🌐 Live Demo](https://luxenest-eight.vercel.app/) • [🐛 Report Bug](https://github.com/p-thanks/LuxeNest/issues) • [✨ Request Feature](https://github.com/p-thanks/LuxeNest/issues)
+[🌐 Live Demo](https://luxenest-eight.vercel.app/) • [🐛 Report Bug](https://github.com/pthanksdev/LuxeNest/issues) • [✨ Request Feature](https://github.com/pthanksdev/LuxeNest/issues)
 
 </div>
 
@@ -240,7 +240,7 @@ yarn build
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/luxenest)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pthanksdev/luxenest)
 
 ```bash
 # Install Vercel CLI
@@ -285,13 +285,13 @@ Contributions are what make the open-source community amazing! Any contributions
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/luxenest?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/luxenest?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/luxenest?style=social)
+![GitHub stars](https://img.shields.io/github/stars/pthanksdev/luxenest?style=social)
+![GitHub forks](https://img.shields.io/github/forks/pthanksdev/luxenest?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/pthanksdev/luxenest?style=social)
 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/luxenest)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/luxenest)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/luxenest)
+![GitHub issues](https://img.shields.io/github/issues/pthanksdev/luxenest)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/pthanksdev/luxenest)
+![GitHub last commit](https://img.shields.io/github/last-commit/pthanksdev/luxenest)
 
 </div>
 
@@ -316,11 +316,11 @@ of this software and associated documentation files...
 
 <div align="center">
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
+**Your Name** - [@yourtwitter](https://twitter.com/Pthanks01)
 
-Project Link: [https://github.com/yourusername/luxenest](https://github.com/yourusername/luxenest)
+Project Link: [https://github.com/pthanksdev/luxenest](https://github.com/pthanksdev/luxenest)
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [pthanksdev](mailto:paulthanksgiving@gmail.com)
 
 </div>
 
